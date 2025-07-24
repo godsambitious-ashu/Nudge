@@ -1,0 +1,10 @@
+name: 'PR Review Assistant'
+description: 'Automated code review using Cody'
+
+runs:
+  using: 'node20'
+  main: 'dist/index.js'
+
+branding:
+  icon: 'code'
+  color: 'blue'
