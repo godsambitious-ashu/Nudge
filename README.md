@@ -1,4 +1,4 @@
-# 🤖 PR Review Assistant
+# 🤖 Nudge - PR Review Assistant
 
 A GitHub Action that automates code reviews on pull requests using Sourcegraph's Cody AI. This action analyzes changed files, provides actionable feedback, and posts both inline comments and a summary review to your pull requests.
 
